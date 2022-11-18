@@ -3,7 +3,7 @@
  * Revisa la configuración en tu
  * servidor de Firebase y cópiala
  * aquí sustituyendo los
- * asteriscos. Los campos deben
+ * asteriscos. Los campos debenl
  * quedar igual que en tu
  * servidor. */
 // @ts-ignore
